@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a1d3e718-f77c-444d-ba81-8f153d93114f" solutionId="a1d3e718-f77c-444d-ba81-8f153d93114f" resetWebServer="false" sharePointProductVersion="15.0" name="SPTileWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b737d671-fb0c-47eb-b737-f5748159f8e9" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="599ae4bf-4b91-487f-8c9d-818acff6dc44" />
+  </projectItems>
+</package>

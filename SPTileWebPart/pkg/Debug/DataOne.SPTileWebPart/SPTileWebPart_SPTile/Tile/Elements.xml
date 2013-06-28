@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="Tile" List="113" Url="_catalogs/wp">
+    <File Path="Tile\Tile.webpart" Url="DataOne.SPTileWebPart_Tile.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="$Resources:SPTileResource,WebPartGroup" />
+    </File>
+  </Module>
+</Elements>

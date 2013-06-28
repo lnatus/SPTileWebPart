@@ -1,0 +1,5 @@
+C:\dev\DataOne-Homepage\src\DataOne.SPTileWebPart\DataOne.SPTileWebPart\bin\Debug\DataOne.SPTileWebPart.dll
+C:\dev\DataOne-Homepage\src\DataOne.SPTileWebPart\DataOne.SPTileWebPart\bin\Debug\DataOne.SPTileWebPart.pdb
+C:\dev\DataOne-Homepage\src\DataOne.SPTileWebPart\DataOne.SPTileWebPart\obj\Debug\DataOne.SPTileWebPart.csprojResolveAssemblyReference.cache
+C:\dev\DataOne-Homepage\src\DataOne.SPTileWebPart\DataOne.SPTileWebPart\obj\Debug\DataOne.SPTileWebPart.dll
+C:\dev\DataOne-Homepage\src\DataOne.SPTileWebPart\DataOne.SPTileWebPart\obj\Debug\DataOne.SPTileWebPart.pdb

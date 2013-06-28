@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="DataOne.SPTileWebPart.Tile.Tile, DataOne.SPTileWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=aad5bdb5bb643ca5" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">$Resources:SPTileResource,WebPartTitle</property>
+        <property name="Description" type="string">$Resources:SPTileResource,WebPartDescription</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

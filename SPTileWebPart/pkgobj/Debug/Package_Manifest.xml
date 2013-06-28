@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a1d3e718-f77c-444d-ba81-8f153d93114f" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="DataOne.SPTileWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="DataOne.SPTileWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=aad5bdb5bb643ca5" Namespace="DataOne.SPTileWebPart.Tile" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="Resources\SPTileResource.resx" />
+    <RootFile Location="Resources\SPTileResource.de-DE.resx" />
+  </RootFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SPTileWebPart_SPTile\Feature.xml" />
+  </FeatureManifests>
+</Solution>
